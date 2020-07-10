@@ -1,16 +1,76 @@
-### Hi there 👋
+## Hi Guys! 👋
 
-<!--
-**NathanaelCruz/NathanaelCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:pencil2: **ABOUT** 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
+I'm Nathanael Cruz, Front-End developer in the Web ecosystem, sometimes with a foot in the Back-End (the previous area of ​​expertise) 😄 
+
+
+&nbsp;
+With an interest in always improving in this new web environment.
+
+
+&nbsp;
+
+
+&nbsp;
+:star:  **MY PERFECT KIT**
+
+
+&nbsp;
+:coffee: Coffe +
+:snowflake: Cold + 
+:waxing_crescent_moon: Night + 
+:computer: Notebook
+
+
+&nbsp;
+
+
+&nbsp;
+:mailbox_with_mail: **CONTACTS**
+1. [Email](mailto:nathanael.cruz.fd@gmail.com?subject=Hello!)
+2. [LinkedIn](https://www.linkedin.com/in/nathanael-cruz-alves/)
+
+
+&nbsp;
+
+
+&nbsp;
+:art: **FRONT-END**
+&nbsp;
+* CSS3
+* HTML 5
+* ECS6
+* Bootstrap
+* UI
+
+
+&nbsp;
+
+
+:wrench: **BACK-END**
+&nbsp;
+* PHP 7
+* API REST
+* Laravel 6
+* MySQL
+
+
+&nbsp;
+
+
+&nbsp;
+:iphone: **MOBILE**
+&nbsp;
+* React Native
+
+
+&nbsp;
+
+
+&nbsp;
+:large_blue_diamond: **LANGUAGES**
+* Portuguese (Maternal)
+* English (beginner, read only)
