@@ -22,7 +22,8 @@ Me chamo Nathanael e sou um desenvolvedor Front-end há alguns meses, entretanto
 
 &nbsp;
 * :gem: Graduado em **Análise e Desenvolvimento de Sistemas** pela **UNIP**
-* :bookmark_tabs: Estudando User Interface na **Semana UI** por **Gabriel Silvestre** e **Desenvolvimento Web** pela **Cod3r**.
+* :bookmark_tabs: Concluído User Interface na **Semana UI** por **Gabriel Silvestre**.
+* :bookmark_tabs: Estudando **Desenvolvimento Web** pela **Cod3r**.
 
 
 &nbsp;
@@ -58,11 +59,6 @@ Me chamo Nathanael e sou um desenvolvedor Front-end há alguns meses, entretanto
 
 &nbsp;
 
-
-&nbsp;
-:iphone: **MOBILE**
-&nbsp;
-* React Native
 
 
 &nbsp;
