@@ -1,7 +1,7 @@
 ## :octocat: Nathanael Cruz Alves
 
 ![Custom badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathanael-cruz-alves/)
-![Custom badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathanael.cruz.fd@gmail.com)
+![Custom badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nathanael.cruz.alves.pro@gmail.com)
 ---
 
 ## HI! Tudo beleza? 👋
