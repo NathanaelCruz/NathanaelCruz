@@ -60,10 +60,6 @@ Me chamo Nathanael e sou um desenvolvedor Front-end há alguns meses, entretanto
 &nbsp;
 
 
-
-&nbsp;
-
-
 &nbsp;
 :large_blue_diamond: **LÍNGUAS**
 * Português (Materna)
